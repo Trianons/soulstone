@@ -24,3 +24,6 @@ We have some pillars to make it works:
 - Bridge to Access NFT - Fast access to NFT to connect with the games
 - Gacha System to Acquire Random NFT
 - 
+
+
+Documents and Assets - Drive: https://drive.google.com/drive/folders/19uhpf9LRYy2BqnAWLH0Suv2X9af6JKF_?usp=sharing
