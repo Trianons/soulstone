@@ -6,6 +6,9 @@ The idea is simple, a NFT what can be used in any Online Game.
 
 **What´s a Soulstone**
 
+Multi purpose Gaming NFT - All Soulstone are UNIQUE in the universe, never exists a Soulstone exactly equal to another Soulstone. 
+You can buy or sell Soulstones in marketplaces. 
+You can use your soulstones in Games. 
 
 
 **Basic Concepts** 
@@ -23,7 +26,7 @@ We have some pillars to make it works:
 - Bridge to Connect GameAccount ou Publisher Account to NFT items
 - Bridge to Access NFT - Fast access to NFT to connect with the games
 - Gacha System to Acquire Random NFT
-- 
+
 
 
 Documents and Assets - Drive: https://drive.google.com/drive/folders/19uhpf9LRYy2BqnAWLH0Suv2X9af6JKF_?usp=sharing
